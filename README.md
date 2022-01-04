@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ppujari98
-- 👀 I’m interested in Exploring idEAS
+- 👀 I’m interested in Exploring Ideas
 - 🌱 I’m currently learning Python
 
 
